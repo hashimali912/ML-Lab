@@ -4,19 +4,19 @@ This repository contains Jupyter Notebooks showcasing various Machine Learning (
 
 ## Contents
 
-- **NumPy Examples**: Basic operations and techniques using NumPy arrays, matrix manipulations, and mathematical functions.
-- **Pandas Examples**: Working with DataFrames, data cleaning, filtering, and manipulation using Pandas.
-- **Scikit-learn Examples**: Implementing machine learning algorithms such as regression, classification, and clustering using Scikit-learn.
+- NumPy Examples: Basic operations and techniques using NumPy arrays, matrix manipulations, and mathematical functions.
+- Pandas Examples: Working with DataFrames, data cleaning, filtering, and manipulation using Pandas.
+- Scikit-learn Examples: Implementing machine learning algorithms such as regression, classification, and clustering using Scikit-learn.
 
 ## Prerequisites
 
 Before you begin, make sure you have the following Python libraries installed:
 
-- `numpy`
-- `pandas`
-- `scikit-learn`
-- `matplotlib` (for visualizations)
-- `seaborn` (optional, for better plots)
+- numpy
+- pandas
+- scikit-learn
+- matplotlib (for visualizations)
+- seaborn (optional, for better plots)
 
 You can install them using pip:
 
